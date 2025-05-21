@@ -66,4 +66,20 @@ O **Análise de Turnover** oferece uma série de funcionalidades para facilitar 
 
 O **Análise de Turnover** é uma ferramenta poderosa para transformar dados brutos em insights acionáveis, ajudando empresas a gerirem melhor seus talentos e reduzirem a rotatividade de forma estratégica.
 
-**Acesse o APP clicando aqui [Análise de Turnover](https://data-turnover.streamlit.app/)**
+# 🌐 Acesso ao Aplicativo
+
+O app está disponível online e pode ser acessado diretamente:
+
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://data-turnover.streamlit.app/)
+
+🔗 [https://data-turnover.streamlit.app/](https://data-turnover.streamlit.app/)
+
+## 📊 Arquivo de Exemplo
+
+Baixe o modelo pronto para uso:  
+[Exemplo.xlsx](./Exemplo.xlsx)
+
+## 👨💻 Autor
+**Fábio Dias**  
+[<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="20"> LinkedIn](https://www.linkedin.com/in/fabio-data-science)  
+[<img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="20"> Email](mailto:fabiodias.elesbao@gmail.com)
